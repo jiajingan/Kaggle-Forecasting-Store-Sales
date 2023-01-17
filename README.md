@@ -5,4 +5,4 @@ https://www.kaggle.com/competitions/store-sales-time-series-forecasting
   - projectEDA.ipynb is Exploratory Data Analysis
   - project_storesales.ipynb is the project notebook
   - Project Appendix.docx and Project Stores Sales.docx is the report
-  - ![a](projectEDA.ipynb)
+  - ![](projectEDA.ipynb)
